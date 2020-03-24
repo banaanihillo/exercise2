@@ -1,3 +1,6 @@
+Changelog 2020-03-19T13:23
+  -Fixed filter terms (added .toLowerCase() to compared name in addition to the one already present on searchTerms)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
