@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Important Person",
+      "number": "555-NUMBER",
+      "id": 1
+    },
+    {
+      "name": "Let's See",
+      "number": "1-800-C",
+      "id": 3
+    },
+    {
+      "name": "Handled Person",
+      "number": "3000-AND-ONE",
+      "id": 4
+    },
+    {
+      "name": "Better ID",
+      "number": "7786925267367964",
+      "id": 0.3696391128516643
+    }
+  ]
+}
